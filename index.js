@@ -27,6 +27,7 @@
         this.canvas = null;
         this.canvasCtx = null;
 
+        //sprite trex
         this.tRex = null;
 
         this.distanceMeter = null;
