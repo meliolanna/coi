@@ -168,7 +168,7 @@
             PTERODACTYL: { x: 134, y: 2 },
             RESTART: { x: 2, y: 2 },
             TEXT_SPRITE: { x: 655, y: 2 },
-            TREX: { x: 848, y: 2 },
+            TREX: { x: 86, y: 4 },
             STAR: { x: 645, y: 2 }
         },
         HDPI: {
@@ -178,9 +178,9 @@
             HORIZON: { x: 2, y: 104 },
             MOON: { x: 954, y: 2 },
             PTERODACTYL: { x: 260, y: 2 },
-            RESTART: { x: 2, y: 2 },
+            RESTART: { x: 3, y: 3 },
             TEXT_SPRITE: { x: 1294, y: 2 },
-            TREX: { x: 1678, y: 2 },
+            TREX: { x: 86, y: 4 },
             STAR: { x: 1276, y: 2 }
         }
     };
